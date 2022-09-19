@@ -1,15 +1,14 @@
 # Kevin White's Refactored Starter Code
-Title (can be text or an image)
+<img src=./assets/images/code-refactor-deploy.jpeg>
 
-Introduction
+<h2><b>Introduction</b></h2>
 
-The purpose of this project was to refactor given code to increase accessibility by using semantic HTML. 
+The purpose of this project was to refactor given code to increase accessibility by using semantic HTML. Semantic HTML uses meaninful tags to provide greater clarity to users and search engines about what is being presented.
 
-How to View
+<h2><b>How to View</b></h2>
 
-URL: 
+URL: https://ghostofthemill.github.io/code-refactor-challenge/
 
-
-Acknowledgments
+<h2><b>Acknowledgments</b></h2>
 
 Starter code source: https://github.com/coding-boot-camp/urban-octo-telegram
